@@ -1,0 +1,19 @@
+[
+    {
+        "name": "Carter",
+        "role": "CEO",
+        "about": "My name is Carter! I am the CEO of this company."
+    },
+
+    {
+        "name": "Robert",
+        "role": "Business Head",
+        "about": "My name is Robert! I am the Head of Business at this company."
+    },
+
+    {
+        "name": "Gordon",
+        "role": "Computing Head",
+        "about": "My name is Gordon! I am the Head of Computing at this company."
+    }
+]
